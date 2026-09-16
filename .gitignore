@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow directory traversal
+!*/
+
+# Allow source scripts
+!*.py
+!*.sh
+
+# Allow documentation and repository metadata
+!README.md
+!LICENSE
+!.gitignore
